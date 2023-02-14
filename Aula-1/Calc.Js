@@ -9,7 +9,7 @@ function media(notas) {
 
 console.log(media([1, 2, 4, 8]));
 
-//Aero Functions/
+//Aero Functions//
 
 //function media2(notas) {
 //   return notas.reduce((acc, curr) => (acc + curr)) / notas.length}
